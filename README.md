@@ -23,11 +23,14 @@ Currently pursuing Computer Science and Engineering
 
 ## 📚 Noteworthy Projects
 
-- **[Spotify Liked Songs Extractor](https://github.com/Aman-Maurya-coder/spotify-liked-songs-extractor)**  
+- **[Spotify Liked Songs Extractor](https://github.com/Aman-Maurya-coder/Getting_all_songs_from_Spotify)**  
   Extract your liked songs from Spotify using Python and automate playlist management!
 
-- **[LinkedIn Queen's Game Solver](https://github.com/Aman-Maurya-coder/LinkedIn-queens-game-solver)**  
+- **[LinkedIn Queen's Game Solver](https://github.com/Aman-Maurya-coder/Linkedin-Queen-s-Game-Solver)**  
   A Python-based solution for the Queen's Game puzzle challenge found on LinkedIn.
+
+- **[Headquarters Attendance Manager](https://github.com/Aman-Maurya-coder/Headquarters-Attendance-Manager)**  
+  A website for college students to mark and maintain their attendance with ease.
 
 *Check out my repositories for more! 🚀*
 
