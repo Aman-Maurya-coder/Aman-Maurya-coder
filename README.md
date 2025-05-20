@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Aman Maurya! 👋
 
-<!--
-**Aman-Maurya-coder/Aman-Maurya-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Student @ IIIT Una**  
+Currently pursuing Computer Science and Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Passionate about coding, technology, and solving real-world problems
+- Exploring the world of **Python**, **JavaScript**, a little **C**, and learning **React** & **Express**
+- Always eager to learn new things and take on new challenges
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, JavaScript, C (basic)
+- **Frameworks/Libraries:** React (learning), Express (learning), Tkinter
+- **Other:** Git & GitHub, Problem-Solving
+
+---
+
+## 📚 Noteworthy Projects
+
+- **[Spotify Liked Songs Extractor](https://github.com/Aman-Maurya-coder/spotify-liked-songs-extractor)**  
+  Extract your liked songs from Spotify using Python and automate playlist management!
+
+- **[LinkedIn Queen's Game Solver](https://github.com/Aman-Maurya-coder/LinkedIn-queens-game-solver)**  
+  A Python-based solution for the Queen's Game puzzle challenge found on LinkedIn.
+
+*Check out my repositories for more! 🚀*
+
+---
+
+## 🎯 Hobbies & Interests
+
+- ♟️ Playing Chess
+- 🧩 Solving Rubik's Cube
+- 📸 Photography
+- 🌏 Travelling (when I can!)
+- 🍥 Watching Anime
+
+---
+
+## 📫 Get in Touch
+
+Feel free to connect, collaborate, or just say hi!
+
+---
+
+*Thanks for visiting my profile! Have a great day! 🚀*
