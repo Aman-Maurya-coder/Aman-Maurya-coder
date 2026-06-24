@@ -8,15 +8,15 @@ Currently pursuing Computer Science and Engineering
 ## 🚀 About Me
 
 - Passionate about coding, technology, and solving real-world problems
-- Exploring the world of **Python**, **JavaScript**, a little **C**, and learning **React** & **Express**
+- Exploring the world of **Next.js**, **TypeScript**, a little **DSA**
 - Always eager to learn new things and take on new challenges
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, JavaScript, C (basic)
-- **Frameworks/Libraries:** React (learning), Express (learning), Tkinter
+- **Languages:** JavaScript, TypeScript, Python, C++
+- **Frameworks/Libraries:** Next.js, React.js, Express.js, Redis, Kafka, Tkinter
 - **Other:** Git & GitHub, Problem-Solving
 
 ---
@@ -49,6 +49,8 @@ Currently pursuing Computer Science and Engineering
 ## 📫 Get in Touch
 
 Feel free to connect, collaborate, or just say hi!
+*LinkedIn*: https://www.linkedin.com/in/amanmaurya211/
+*X*: https://x.com/Its_Aman_Maurya
 
 ---
 
