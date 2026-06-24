@@ -49,8 +49,8 @@ Currently pursuing Computer Science and Engineering
 ## 📫 Get in Touch
 
 Feel free to connect, collaborate, or just say hi!
-*LinkedIn*: https://www.linkedin.com/in/amanmaurya211/
-*X*: https://x.com/Its_Aman_Maurya
+- *LinkedIn*: https://www.linkedin.com/in/amanmaurya211/
+- *X*: https://x.com/Its_Aman_Maurya
 
 ---
 
